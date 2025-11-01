@@ -8,7 +8,7 @@ A **Checkers (Draughts)** game built using **Python**, **Pygame**, and **NumPy**
 ## 🧠 What Makes It Special
 
 Unlike typical AI checkers games, this one doesn’t feel robotic.
-The built-in solver **“humanizes”** its moves by:
+The built-in solver its moves by:
 
 - Thinking for a few seconds before playing.
 - Occasionally making small mistakes (blunders).
